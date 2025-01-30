@@ -73,6 +73,6 @@ Image Credits : Wiki Pedia
 
 ## Output
 
-<img src="https://github.com/shreyaschavhan/Rock-Paper-Scissors-Game/blob/main/Images/rock-paper-scissor.gif" width="1080" height="600" />
+<img src="https://github.com/umeshkarthik1606/Rock-Paper-Scissors-game/blob/main/Images/rock-paper-scissor.gif?raw=true" />
 
 
